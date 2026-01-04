@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: ArticyImporter.Editor.dll::Articy.Unity.Editor.ArticyPluginSettings
   mUsedImportFile: 
   mUsedLocalizationPath: 
-  mSCMIgnoreState: 0
+  mSCMIgnoreState: 1
   mShowObjectsInDatabaseView: 1
   mLastPluginVersion: 
   mAutomaticallyTriggerImport: 1

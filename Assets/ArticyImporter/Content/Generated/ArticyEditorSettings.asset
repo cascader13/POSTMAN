@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 704907223, guid: 538242286e35fb84f8e90dd86ba08b80, type: 3}
   m_Name: ArticyEditorSettings
   m_EditorClassIdentifier: ArticyImporter.Editor.dll::Articy.Unity.Editor.ArticyEditorSettings
-  mIsImporting: 0
+  mIsImporting: 1
   mAwaitingModelImport: 0
   mAwaitingFragmentsImport: 0
   mLastUsedObjectDefinitionHash: 
   mLastUsedScriptFragmentsHash: 
   mLastUsedPackagesHash: 0
   mLastUsedPackagesCount: 0
-  mLastBuildCode: 0
-  mLastEditorStartupTimeTicks: 639026477370412655
+  mLastBuildCode: -100
+  mLastEditorStartupTimeTicks: 639028865765756485
   mNewVersionAvailable: 0
   mLastSelectedCustomGvPath: 
   mLastAttachedFlowPlayerValue: 0
